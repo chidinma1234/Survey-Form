@@ -45,6 +45,7 @@ h1 {
 p {
     font-size: 1.3rem;
     color: var(--color-dark-blue);
+    font-weight: 700;
 }
 
 .form-group,
